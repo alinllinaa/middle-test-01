@@ -42,25 +42,6 @@ pytest
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## Структура проєкту
-
-```
-middle-test-01/
-│
-├── main.py                  # Основна логіка
-├── test_main.py             # Модульні тести
-├── text.txt                 # Вхідний файл
-├── requirements.txt         # Залежності
-├── .gitignore
-├── README.md
-└── .github/
-    └── workflows/
-        └── python-app.yml   # GitHub Actions конфіг
-```
-
 ---
 
 ##  Виконала: Дробатюк Аліна ІПЗ-21
